@@ -59,7 +59,9 @@ $ cejera.missions.run()
 ### 🌐 Conecte-se Comigo
 
 <p align="center">
-<a href="https://cejera.com/links" target="_blank" style="background-color: #f70707; color: white; padding: 8px 16px; text-decoration: none; font-weight: bold; font-family: monospace; border-radius: 4px; display: inline-block; margin-bottom: 20px;">LINKS</a>
+<a href="https://cejera.com/links" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/Links-🎯-red?style=for-the-badge&logo=linktree&logoColor=white" alt="Links" />
+</a>
 </p>
 
 ---
