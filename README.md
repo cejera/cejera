@@ -47,7 +47,7 @@ $ cejera.missions.run()
 
 | Projeto             | Descrição                                                                 | Status         | Link |
 |---------------------|---------------------------------------------------------------------------|----------------|------|
-| **Mirtilo 1.0**      | Gerador de frases enigmáticas (filosofia + mitologia + cultura pop + IA) | 🔮 Em criação   | [Acessar](https://cejera.com/cr1pt0gr4f14) |
+| **Mirtilo 1.0**      | Gerador de frases enigmáticas (filosofia + mitologia + cultura pop + IA) | 🔮 Em criação   | [Acessar (🔐)](https://cejera.com/) |
 | **Cejera Streetwear**| Marca experimental com estética cyberpunk                                | 🧪 Em protótipo | [Ver coleção](https://cejera.com/moda) |
 | **O Protagonista**   | Personagem transmídia com narrativa interativa                           | 🧠 Em expansão  | - |
 | **Stream Pack**      | Overlays + recursos para streams criativas                               | 🧰 Pronto       | - |
@@ -82,5 +82,5 @@ if (vocêChegouAtéAqui) {
  * Base: ROT™
  * Status: Ativo
  * Versão: Protagonista 2.5.7
- */
+ * const correctCode = ['ᛋ', '⟑', 'ⲭ', '⫝'];
 ```
