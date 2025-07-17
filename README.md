@@ -56,9 +56,12 @@ $ cejera.missions.run()
 
 ---
 
-<a href="https://cejera.com/links" target="_blank" rel="noopener noreferrer" style="text-decoration:none;">
-  <img src="https://img.shields.io/badge/🍒MEUS%20LINKS🌐-red?style=for-the-badge&logo=&logoColor=white&color=FF0000&labelColor=FF0000" alt="Conecte-se comigo!" />
-</a>
+<div align="center">
+  <a href="https://cejera.com/links" target="_blank" rel="noopener noreferrer" style="text-decoration:none;">
+    <img src="https://img.shields.io/badge/MEUS%20LINKS🌐-red?style=for-the-badge&logo=&logoColor=white&color=FF0000&labelColor=FF0000" alt="Conecte-se comigo!" style="width:250px; height:auto;" />
+  </a>
+</div>
+
 
 
 ---
