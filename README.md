@@ -12,7 +12,7 @@ Movido por uma estética **futurista**, **storytelling forte** e uma busca const
 - 🎨 Designer gráfico com background em **branding** e **marketing**  
 - 🎥 Produtor audiovisual com foco em **live** e **conteúdo digital**  
 - 🎧 Aprendiz de DJ _(modo: remixando o futuro)_  
-- 💭 Acredito que a **criatividade é um sistema operacional da alma**  
+- 💭 Acredito que a **criatividade é o sistema operacional da alma**  
 
 ---
 
