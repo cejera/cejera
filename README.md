@@ -59,9 +59,7 @@ $ cejera.missions.run()
 ### 🌐 Conecte-se Comigo
 
 <p align="center">
-  <a href="https://instagram.com/cejera"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
-  <a href="https://youtube.com/@cejera"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/cejera"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=LinkedIn&logoColor=white"/></a>
+<a href="https://cejera.com/links" target="_blank" style="background-color: #f70707; color: white; padding: 8px 16px; text-decoration: none; font-weight: bold; font-family: monospace; border-radius: 4px; display: inline-block; margin-bottom: 20px;">LINKS</a>
 </p>
 
 ---
