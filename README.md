@@ -1,3 +1,4 @@
+
 <h1 align="center">🍒 Cejera.exe</h1>
 <p align="center"><i>Design. Código. Som. Presença. [POWERED BY ROT]</i></p>
 
@@ -44,12 +45,14 @@ $ cejera.missions.run()
 
 ### ✨ Projetos em Destaque
 
-| Projeto             | Descrição                                                                 | Status         |
-|---------------------|---------------------------------------------------------------------------|----------------|
-| **Mirtilo 1.0**      | Gerador de frases enigmáticas (filosofia + mitologia + cultura pop + IA) | 🔮 Em criação   |
-| **Cejera Streetwear**| Marca experimental com estética cyberpunk                                | 🧪 Em protótipo |
-| **O Protagonista**   | Personagem transmídia com narrativa interativa                           | 🧠 Em expansão  |
-| **Stream Pack**      | Overlays + recursos para streams criativas                               | 🧰 Pronto       |
+| Projeto             | Descrição                                                                 | Status         | Link |
+|---------------------|---------------------------------------------------------------------------|----------------|------|
+| **Mirtilo 1.0**      | Gerador de frases enigmáticas (filosofia + mitologia + cultura pop + IA) | 🔮 Em criação   | [Acessar](https://cejera.com/cr1pt0gr4f14) |
+| **Cejera Streetwear**| Marca experimental com estética cyberpunk                                | 🧪 Em protótipo | [Ver coleção](https://cejera.com/moda) |
+| **O Protagonista**   | Personagem transmídia com narrativa interativa                           | 🧠 Em expansão  | - |
+| **Stream Pack**      | Overlays + recursos para streams criativas                               | 🧰 Pronto       | - |
+| **Design**           | Portfólio visual de identidade & interfaces                              | 🎨 Disponível   | [Ver design](https://cejera.com/design) |
+| **Música**           | Tracks, edits e experiências sonoras                                     | 🎧 Em produção  | [Saiba mais](https://cejera.com/musica) |
 
 ---
 
